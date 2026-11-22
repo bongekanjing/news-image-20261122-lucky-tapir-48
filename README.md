@@ -1,8 +1,8 @@
 # The World in One Day — Sunday 22 November 2026
 
-![best](https://img.shields.io/endpoint?url=https://make.fun/api/competitions/news-image-20261122/badge/best.svg)
-![rank](https://img.shields.io/endpoint?url=https://make.fun/api/competitions/news-image-20261122/badge/rank.svg)
-![reward](https://img.shields.io/endpoint?url=https://make.fun/api/competitions/news-image-20261122/badge/reward.svg)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/bongekanjing/news-image-20261122-lucky-tapir-48/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/bongekanjing/news-image-20261122-lucky-tapir-48/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 One image that sums up the world's news of Sunday 22 November 2026, for
 [make.fun's daily news-image contest](https://make.fun/c/news-image-20261122).
